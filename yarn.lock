@@ -4006,9 +4006,13 @@ table@^4.0.1:
     slice-ansi "1.0.0"
     string-width "^2.1.1"
 
-tapable@^0.2.7, tapable@^0.2.8:
+"tapable-old@npm:tapable@^0.2.8", tapable@^0.2.7:
   version "0.2.8"
   resolved "https://registry.yarnpkg.com/tapable/-/tapable-0.2.8.tgz#99372a5c999bf2df160afc0d74bed4f47948cd22"
+
+tapable@1.0.0-beta.1:
+  version "1.0.0-beta.1"
+  resolved "https://registry.yarnpkg.com/tapable/-/tapable-1.0.0-beta.1.tgz#393ba614d35909b6ad486102a2f0d437f5f855bc"
 
 tar-pack@^3.4.0:
   version "3.4.0"
